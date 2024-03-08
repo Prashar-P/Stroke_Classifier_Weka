@@ -1,5 +1,3 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <h3 align="center">Weka based Classifier for Stroke Analysis</h3>
 
 <!-- TABLE OF CONTENTS -->
