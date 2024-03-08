@@ -62,9 +62,11 @@ When preprocessing the following techniques have been applied:
 ### Comparison to other work
 
 Effects of smoking on stroke (Biqi Pan, Xiao Jin, Liu Jun, Shaohong Qiu, Qiuping Zheng, Mingwo Pan, 2019. The relationship between smoking and stroke. Medicine (Baltimore)):
+
 ![image](https://github.com/Prashar-P/Stroke_Classifier_Weka/assets/140114811/23f9f297-74bf-40a1-874e-9cf23a647f4a)
 
 Classifiers using same dataset (Elias Dritsas and Maria Trigka, 2022. Stroke Risk Prediction with Machine Learning Techniques. Sensors (Basel)):
+
 ![image](https://github.com/Prashar-P/Stroke_Classifier_Weka/assets/140114811/471c11e4-884c-4bf7-bf63-85356795624d)
 
 <!-- CONTACT -->
