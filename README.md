@@ -31,11 +31,11 @@ NOTE: FULL WRITTEN REPORT HAS BEEN TEMPORARILY OMITTED.
 
 ### Built With
 
-* [![Weka][Weka]][Weka-url]
+* [Weka-Installation]
 
 ### Datasets
 
-Dataset used for analysis: [kaggle-url]
+Dataset used for analysis: [Stroke-Dataset]
 
 The dataset contains 12 attributes as listed below:
 •	Unique ID: Unique ID Number for each patient.
@@ -71,8 +71,8 @@ Classifiers using same dataset (Elias Dritsas and Maria Trigka, 2022. Stroke Ris
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[weka-url]: https://sourceforge.net/projects/weka
-[kaggle-url]: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data
+[linkedin-url]: https://www.linkedin.com/in/priya-prashar-4801/
+[stroke-dataset]: https://sourceforge.net/projects/weka
+[Weka-Installation]: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data
 
 
