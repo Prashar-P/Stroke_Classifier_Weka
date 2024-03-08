@@ -78,7 +78,7 @@ Classifiers using same dataset (Elias Dritsas and Maria Trigka, 2022. Stroke Ris
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-url]: https://www.linkedin.com/in/priya-prashar-4801/
-[stroke-dataset]: https://sourceforge.net/projects/weka
-[Weka-Installation]: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data
+[Weka-Installation]: https://sourceforge.net/projects/weka
+[Stroke-Dataset]: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data
 
 
