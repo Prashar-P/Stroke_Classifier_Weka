@@ -13,6 +13,7 @@
         <li><a href="#built-with">Datasets</a></li>
         <li><a href="#built-with">Classifiers</a></li>
       </ul>
+      <a href="#contact">Contact</a>
     </li>
   </ol>
 </details>
@@ -68,6 +69,11 @@ Effects of smoking on stroke (Biqi Pan, Xiao Jin, Liu Jun, Shaohong Qiu, Qiuping
 Classifiers using same dataset (Elias Dritsas and Maria Trigka, 2022. Stroke Risk Prediction with Machine Learning Techniques. Sensors (Basel)):
 ![image](https://github.com/Prashar-P/Stroke_Classifier_Weka/assets/140114811/471c11e4-884c-4bf7-bf63-85356795624d)
 
+<!-- CONTACT -->
+
+## Contact
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn - Priya Prashar](https://www.linkedin.com/in/priya-prashar-4801/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
